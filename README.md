@@ -1,33 +1,36 @@
-# 🎮 UNCG Game Development Club: Long-Term Project
-**Lead Architect & Technical Director: Dr. Richard B. Johnson**
+# 🏛️ UNCG Game Development Club: Technical Lecture Series
+**Technical Director: Dr. Richard B. Johnson**
 
-This repository serves as the central documentation and architectural hub for the UNCG Game Development Club's primary multi-year project.
-
----
-
-## 🚀 Project Overview: Codename 'Seraph's Despair'
-A systemic space-survival simulation focused on high-agent-count AI, complex state machines, and performant systems architecture. 
-
-* **Engine:** Godot 4.x (GDExtension / C++)
-* **Core Systems:** Universal Movement System, Data-Driven Agent Framework, Finite State Machines (FSM).
-* **Architecture:** Modular, systems-first design to facilitate collaborative student contributions and high-performance execution.
+This repository contains the core curriculum and technical blueprints for the UNCG Game Development Club. These materials guide the development of our long-term project, **'Seraph's Despair'**, and provide a roadmap for professional studio operations.
 
 ---
 
-## 🛠️ Technical Leadership & Mentorship
-As Technical Director, my role involves:
-* **Architectural Oversight:** Designing the core "engine-level" systems and frameworks that students build upon.
-* **Code Review & Standards:** Enforcing professional-grade codebase management, documentation, and performance optimization.
-* **Project Management:** Guiding student officers through the software development lifecycle (SDLC) in a collaborative volunteer environment.
+## 📂 Curriculum & Presentation Modules
 
-## 📂 Repository Structure
-* **/Documentation**: High-level technical specifications, UML diagrams, and system flowcharts.
-* **/Guidelines**: Contribution standards, naming conventions, and Git flow protocols.
-* **/Prototypes**: Publicly accessible demonstrations of specific systems (e.g., AI logic, custom shaders, or profilers).
+| Module | Title | Focus & Key Deliverables |
+| :--- | :--- | :--- |
+| **01** | **From Concept to Launch** | Market analysis, pre-production phases, and the "Hybrid Approach" to game design. |
+| **02** | **Technical Director Pitch** | Architectural strategy, risk mitigation (Graphics/AI/Networking), and the role of technical leadership. |
+| **03** | **The Technical Blueprint** | Introduction to the TDD, Godot/GDExtension strategy, and core performance goals for *Seraph's Despair*. |
+| **04** | **TDD: Deep Dive** | Technical specifications for Player State Machines, Enemy AI, and Persistence Protocols. |
+| **05** | **Indie Studio Roadmap** | Business strategy for achieving multigenerational wealth through IP ownership and legal entity formation. |
 
 ---
 
-## 🔒 Access Note
-The primary production codebase is maintained in a **private organization repository** to protect student contributions and proprietary legacy frameworks. Access for academic review or professional collaboration is available upon request.
+## 🛠️ Key Technical Concepts Covered
+* **Engine Architecture:** Leveraging **GDExtension (C++)** for high-performance systems while using GDScript for rapid prototyping.
+* **Systems Design:** Implementing robust Finite State Machines (FSM) and data-driven agent frameworks.
+* **Risk Management:** Mitigating volunteer attrition and "Knowledge Silos" through the **Stale Task Protocol** and System Ownership Logs.
+* **Business of Games:** Understanding the "Revenue Cliff" and the critical importance of **Work For Hire** IP assignments.
 
-**Copyright © 2025-2026 Richard B. Johnson & UNCG Game Development Club. All rights reserved.**
+---
+
+## 📜 Usage & Intellectual Property
+These materials are provided for the educational benefit of UNCG students and club members. 
+
+* **Academic Integrity:** Students are encouraged to study these architectures; however, the foundational logic derived from the *R.B. Johnson Personal Archive (1999–2026)* remains the property of the author.
+* **Access:** Presentation slides are provided in PDF format for universal compatibility.
+
+---
+
+**[Back to Main Profile](https://github.com/your-username)**
